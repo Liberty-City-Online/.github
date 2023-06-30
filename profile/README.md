@@ -16,6 +16,5 @@ LC:O is an online client for GTA IV. LC:O offers an unprecedented GTA IV online 
 </div>
 
 <p align="center">
-  <a href="https://lconline.net"><strong>lconline.net »</strong></a><br>
-  <a href="https://gta-advanced.com"><strong>gta-advanced.com »</strong></a>
+  <a href="https://lc-online.net"><strong>lc-online.net</strong></a><br>
 </p>
